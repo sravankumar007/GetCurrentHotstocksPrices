@@ -1,1 +1,2 @@
 # GetCurrentHotstocksPrices
+program gets the list of most actives, gainers and losers from the https://money.cnn.com/data/hotstocks/ website. Next, the program will take the ticker symbols and names of these companies (and categories) and get the data about each stock from the website: https://money.cnn.com/quote/quote.html?symb=GE , which gives the quote for ticker symbol GE as an example. The data to be collected from the website will include: OPEN price PREV CLOSE price VOLUME MARKET CAP.
